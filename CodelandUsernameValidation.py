@@ -1,4 +1,4 @@
-# CodelandUsernameValidation.py(Python 3    Coderbyte Challenge)
+# CodelandUsernameValidation.py(Python 3 Coderbyte Challenge)
 # This function validates a username based on specific criteria:
 # 1. Length must be between 4 and 25 characters.
 # 2. Must start with a letter.
